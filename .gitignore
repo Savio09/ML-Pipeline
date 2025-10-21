@@ -8,3 +8,6 @@ __pycache__/
 *.pyo
 *.pyd
 .node_modules/
+.vscode/
+.idea/
+Audio_Samples/
