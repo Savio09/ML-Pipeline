@@ -7,7 +7,12 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.node_modules/
+node_modules/
 .vscode/
 .idea/
 Audio_Samples/
+EDA/unified_streaming_features.csv
+Extracted_Features/audio_features_with_genres.csv
+Extracted_Features/audio_features.csv
+Ingested_Data/cleaned_streaming_history.csv
+Ingested_Data/combined_streaming_history.csv
